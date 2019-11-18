@@ -1,0 +1,14 @@
+.on{
+  backgrond: #00FFFF;
+  color: #7FFF00;
+}
+
+.off{
+  background: #FF0000;
+  color: 	#FFFAFA;
+}
+
+.switch{
+  font-size: 150%;
+  font-weight: bold;
+}
